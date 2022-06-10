@@ -2,5 +2,5 @@
 div椭圆环绕效果
 
 
-![Uploading 动画 (-2).gif…]()
+![image](https://user-images.githubusercontent.com/43164478/172998285-568fd3ba-a640-4465-bfe6-35d348f846b7.png)
 
